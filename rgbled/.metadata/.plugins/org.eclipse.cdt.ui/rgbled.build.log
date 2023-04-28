@@ -1,0 +1,10 @@
+11:16:15 **** Incremental Build of configuration Debug for project rgbled ****
+make -j12 all 
+arm-none-eabi-size   rgbled.elf 
+   text	   data	    bss	    dec	    hex	filename
+  47172	    480	   4128	  51780	   ca44	rgbled.elf
+Finished building: default.size.stdout
+ 
+
+11:16:16 Build Finished. 0 errors, 0 warnings. (took 535ms)
+
